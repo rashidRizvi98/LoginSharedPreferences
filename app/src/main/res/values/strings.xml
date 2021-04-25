@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LoginSharedPref</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+</resources>
